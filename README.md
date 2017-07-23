@@ -1,0 +1,2 @@
+# Weight Converter App
+This is a simple weight converter app using JavaScript and Bootstrap 4 for the user interface. With this application you can convert pounds to grams, kilograms and ounces. This will be pure vanilla JavaScript with no JavaScript libraries or frameworks.
